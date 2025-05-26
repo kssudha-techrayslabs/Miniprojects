@@ -1,0 +1,22 @@
+{
+  "name": "miniprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kssudha-techrayslabs/Miniprojects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kssudha-techrayslabs/Miniprojects/issues"
+  },
+  "homepage": "https://github.com/kssudha-techrayslabs/Miniprojects#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
